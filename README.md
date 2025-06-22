@@ -14,7 +14,7 @@ This application automates the code review process by analyzing source code, det
 
 🔁 Real-time communication with a Node.js/Express backend
 
-📦 Supports multiple programming languages (customizable)
+📦 Supports multiple programming languages (customizable) 
 
 
 🛠️ Tech Stack
